@@ -1,0 +1,24 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.poutine-title {
+    text-align: center;
+    background-color: cadetblue;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+.image {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.subtitle {
+    text-align: center;
+    color: rgb(189, 189, 189);
+}
+
+button {
+    background-color: bisque;
+}

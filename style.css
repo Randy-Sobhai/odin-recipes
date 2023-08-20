@@ -1,0 +1,31 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title-page {
+    text-align: center;
+    color: aliceblue;
+    background-color: cadetblue;
+    font-size: x-large;
+}
+
+.image {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.subtitle {
+    text-align: center;
+    color: aliceblue;
+    background-color: cadetblue;
+    -moz-background-clip: border-box;
+}
+
+.recipe-pages {
+    text-align: center;    
+}
+
+button {
+    background-color: bisque;
+}
+
