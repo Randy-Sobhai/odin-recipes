@@ -29,3 +29,8 @@ button {
     background-color: bisque;
 }
 
+.poutine,
+.hot-dogs,
+.cookie {
+    font-size: larger;
+}
