@@ -1,24 +1,39 @@
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+
 }
+
+body {
+
+    background-color: antiquewhite;
+
+}
+
 
 .title-page {
     text-align: center;
     color: aliceblue;
     background-color: cadetblue;
     font-size: x-large;
+    padding: 5px;
+
+
+
 }
 
 .image {
     text-align: center;
-    background-color: antiquewhite;
+    background-color: navajowhite;
+    margin: auto;
+
 }
 
 .subtitle {
     text-align: center;
     color: aliceblue;
     background-color: cadetblue;
-    -moz-background-clip: border-box;
+    padding: 0.5px;
 }
 
 .recipe-pages {
@@ -26,7 +41,13 @@
 }
 
 button {
-    background-color: bisque;
+
+    background-color: navajowhite;
+
+}
+
+button :hover {
+    background-color: rgb(236, 204, 166);
 }
 
 .poutine,

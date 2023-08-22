@@ -1,24 +1,84 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: antiquewhite;
+}
+
 .cookie-title {
     text-align: center;
     background-color: cadetblue;
     color: aliceblue;
     font-size: x-large;
+    padding: 5px;
+
 }
 
 .image {
     text-align: center;
-    background-color: antiquewhite;
+    background-color: navajowhite;
+    margin: auto;
 }
+
+
 
 .subtitle {
     text-align: center;
     color: rgb(189, 189, 189);
+    background-color: navajowhite;
+    padding: .5px;
 }
+
+.mini-title {
+
+    color: aliceblue;
+    text-align: center;
+    background-color: cadetblue;
+    padding: .5px;
+
+}
+
+.described {
+
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin: auto;
+}
+
+.notes {
+
+    background-color: navajowhite;
+    padding: 5px;
+    margin: auto;
+    line-height: 2;
+
+}
+
+.ingredients {
+
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: auto;
+    line-height: 2;
+
+}
+
+.steps {
+
+    background-color: navajowhite;
+    padding: 5px;
+    margin: auto;
+    line-height: 2;
+}
+
+
+
 
 button {
-    background-color: bisque;
+    background-color: navajowhite;
 }
 
-* {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
